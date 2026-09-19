@@ -34,7 +34,6 @@ const allImages = [
     "normal.png",
     "anom_crossdress.png",
     "anom_twintail.png",
-    "anom_all_blush.png",
     "anom_wall_pattern.png",
     "anom_empty.png",
     "anom_usui.png",
